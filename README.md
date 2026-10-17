@@ -8,6 +8,8 @@ The project links are:
 
 [System Request pdf](https://drive.google.com/file/d/17gacqgRjQl2jpjG26sYyBikeGpndmwcb/view?usp=drive_link) :a portable document format for [System Request docx](https://1drv.ms/f/c/7e435ee8f9dfee13/IgCIIHqMgngESIIGNdeM2kW7AWFikW5JJV-dFzlrC80bT2A?e=GDV68C)
 
+[group description](https://1drv.ms/w/c/7e435ee8f9dfee13/IQCs290bx5BbT7BgISTO48qRAQgbC7Byn0ALjs4TPgM5XmQ?e=6gTYv5):project name,section,names
+
 
 
 -------------------------------------
