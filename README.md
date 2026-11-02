@@ -20,8 +20,17 @@ The project links are:
 | 1 | Menna-tallah khaled ali khalil | 1202540414 |
 | 2 | Menna-tallah osama mohammad yahya | 1202540971 |
 
+----------------------------------------------------------------
+## task 2 :
+
+* **Time estimation table :** [https://drive.google.com/file/d/1IOBLhzvZEWlayBPgc59hp0RkXqUA6gTp/view?usp=drive_link]
+* **PERT diagram:** [https://drive.google.com/file/d/1we7V-NYBLALZSAOTu_LxD6p__x75NX-s/view?usp=drive_link]
+* **GANTT chart:** [https://drive.google.com/file/d/1efPLK0_V44tHFvj4LyU4mcLTVodD7eTM/view?usp=drive_link]
+* **activity table:** [https://drive.google.com/file/d/1mV8ZEmpVzWQPwc_Jt0Ockhd3jAAmtrk8/view?usp=drive_link]
 --------------------------------------------------------------
 ## Task 3: System Analysis & Requirements
 
 * **Task 3 Document (PDF):** [Task 3.pdf](Task%203.pdf)
 * **Online User Survey (Google Form):** [Smart Complaint Escalation System Survey](https://forms.gle/pkdMMy8hECWuQbzu7)
+
+
