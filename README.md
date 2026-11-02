@@ -23,7 +23,7 @@ The project links are:
 ----------------------------------------------------------------
 ## task 2 :
 
-* **Time estimation table :** [https://drive.google.com/file/d/1IOBLhzvZEWlayBPgc59hp0RkXqUA6gTp/view?usp=drive_link]
+* **Time estimation table :** [https://drive.google.com/file/d/1IOBLhzvZEWlayBPgc59hp0RkXqUA6gTp/view?usp=sharing]
 * **PERT diagram:** [https://drive.google.com/file/d/1we7V-NYBLALZSAOTu_LxD6p__x75NX-s/view?usp=drive_link]
 * **GANTT chart:** [https://drive.google.com/file/d/1efPLK0_V44tHFvj4LyU4mcLTVodD7eTM/view?usp=drive_link]
 * **activity table:** [https://drive.google.com/file/d/1mV8ZEmpVzWQPwc_Jt0Ockhd3jAAmtrk8/view?usp=drive_link]
