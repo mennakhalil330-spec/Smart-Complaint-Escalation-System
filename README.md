@@ -39,6 +39,6 @@ The project links are:
  * **Diagram 0:**[https://drive.google.com/file/d/1DTGwXOwDjwWEP9SF-AGS49MtOmhQtU_k/view?usp=sharing]
   ----------------------------------------------------------------
   ## Task 5:
-  **DFD Data flow & Data Store:**[https://drive.google.com/file/d/1oiMniUVO3iTpgwZt6_UFCNkr-r1i2VVD/view?usp=sharing]
-  **Decision Logic & Postage Charge Rules:**[https://drive.google.com/drive/folders/1x8w2oG8-_tKiW0rT5awwVrNP86qc7i3w?usp=sharing]
+ * **DFD Data flow & Data Store:**[https://drive.google.com/file/d/1oiMniUVO3iTpgwZt6_UFCNkr-r1i2VVD/view?usp=sharing]
+ * **Decision Logic & Postage Charge Rules:**[https://drive.google.com/drive/folders/1x8w2oG8-_tKiW0rT5awwVrNP86qc7i3w?usp=sharing]
   
