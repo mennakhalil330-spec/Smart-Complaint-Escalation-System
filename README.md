@@ -40,4 +40,5 @@ The project links are:
   ----------------------------------------------------------------
   ## Task 5:
   **DFD Data flow & Data Store:**[https://drive.google.com/file/d/1oiMniUVO3iTpgwZt6_UFCNkr-r1i2VVD/view?usp=sharing]
+  **Decision Logic & Postage Charge Rules:**[https://drive.google.com/drive/folders/1x8w2oG8-_tKiW0rT5awwVrNP86qc7i3w?usp=sharing]
   
